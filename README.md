@@ -3,7 +3,6 @@
 
 - Projeto selecionado: [DLTT: A Toolkit for Testing Deep Learning Software](https://docs.google.com/document/d/1SbYDe31ZAIJ1JmCE_2q9VHM6kExTQv3U0kJLK2KPJ2M/edit)
 - Projeto selecionado em PT-BR: [DLTT: A Toolkit for Testing Deep Learning Software](https://drive.google.com/file/d/1--YnJyhcseyfBfc-hAgmwTvhnKChVyOI/view?usp=share_link)
-- Projeto selecionado: [DLTT: A Toolkit for Testing Deep Learning Software](https://docs.google.com/document/d/1SbYDe31ZAIJ1JmCE_2q9VHM6kExTQv3U0kJLK2KPJ2M/edit)
 
 
 Requisitos do projeto
