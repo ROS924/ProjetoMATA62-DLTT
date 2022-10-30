@@ -12,7 +12,7 @@ Requisitos do projeto
 - Gerenciador de projeto: [Trello](https://trello.com/invite/b/BrO6in1U/ATTI93b0c89edaf39348d5e1adcb4175a8e9232AB60E/projeto-de-eng-de-software)
 - User stories / requisitos: [---](#)
 - Plano de desenvolvimento do projeto: [Docs](https://docs.google.com/document/d/1k-PTtwJt1NyTUWPQ7UV8WN4ot-pKhn6Q9kIspDAnQpk/edit?usp=sharing)
-- Modelos de classes: [Modelos](#)
+- Modelos de classes: [Modelos](https://sketchboard.me/hDvRWOWvfslO#/)
 
 
 
